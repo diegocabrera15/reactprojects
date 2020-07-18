@@ -1,0 +1,11 @@
+INSTALAR
+npm install -g npm@latest
+
+BORRAR CACHE
+npm cache clean --force
+
+DESCARGAR PROYECTO BASE Y DEPENDENCIAS
+npm install -g create-react-app
+
+CREAR PRYECTO NUEVO DE REACT
+create-react-app aprendiendoreact

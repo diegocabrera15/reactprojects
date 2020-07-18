@@ -1,0 +1,40 @@
+COMANDO CRAR APLICACION
+npx create-react-app nombre-app
+npx create-react-app wheather-app
+
+Instalar PROPTYPES
+
+
+Instalar WeatherIcons
+npm install --save react-weathericons
+ó
+yarn add react-weathericons
+
+Agregar CSS de Weather icons
+https://cdnjs.com/libraries/weather-icons
+
+INSTALAR PROPTYPES
+yarn add prop-types
+
+LEVANTAR EL SERVIDOR
+yarn start
+
+PLUGINS PARA REACT
+vscode-icons
+reactjs code snippets
+
+INSTALLA PLUGIN PROPTYPES
+Digitar en el cmd: yarn add prop-types
+
+PLUGIN VSCODE
+reactjs code snippets  --> el que tenga más descargas.
+
+
+Kink
+https://babeljs.io/
+
+https://www.jsx.com/error/global
+
+https://fonts.google.com/
+
+https://cssmatic.com/
