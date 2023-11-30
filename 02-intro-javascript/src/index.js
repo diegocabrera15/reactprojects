@@ -17,3 +17,4 @@ const getHeroreById2 = id => {
     return heroes.find( idHeroes =>  id === parseInt(idHeroes.id) ? true : false   )
 }
 console.log(getHeroreById2(2));
+
